@@ -22,6 +22,7 @@ Una herramienta ofimatica es un programa o aplicacione que nos permiten manipula
 
 
 5. [Herramientas de google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de google")
+
 |__Aplicaciones__|__Visto__|
 |------------|---------|
 |Google Docs|✔️|
@@ -30,8 +31,14 @@ Una herramienta ofimatica es un programa o aplicacione que nos permiten manipula
 |Google Calendar|📅|
 |Google Meet|💻|
 |...|...|
+
+
 6. ¿Qué es HTML?
+
 Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
+
+
+
 '''
 
 <!DOCTYPE html>
@@ -47,7 +54,14 @@ Es el código que se utiliza para estructurar y desplegar una página web y sus 
 </html>
 
 '''
+
+
+
 7. ¿Qué es CSS?
+
 Es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de los sitios.
+
+
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
 [WEB SERVER](imagen1.jpg "Web server")
