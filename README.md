@@ -64,4 +64,4 @@ Es un lenguaje que maneja el diseño y presentación de las páginas web, es dec
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-[WEB SERVER](imagen1.jpg "Web server")
+![WEB SERVER](imagen1.jpg)
